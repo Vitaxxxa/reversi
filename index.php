@@ -52,7 +52,7 @@ if (isset($_POST['clear'])){    //clear current SESSION!!!
 
     <html>
     <head>
-        <link rel="stylesheet" type="text/css" href="/data/style.css">
+        <link rel="stylesheet" type="text/css" href="data/style.css">
         <title>REVERSI GAME</title>
     </head>
         
